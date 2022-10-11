@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    font-family: "Serif", Georgia;
+  }
+  h1,
+  h2, h3 {
+    color: rgb(5, 185, 113);
+  }
+  
+  img{
+    height: 500px;
+    width: 500px;
+  }
+  
+  b{
+    font-size: 17px;
+  }
+  hr{
+    margin: 0px 15px 15px;
+  }
+  
+  i {
+    color: grey;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    border: none;
+    height: 30px;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: whitesmoke;
+  }
+  
+  .title{
+    text-align: center;
+    
+  }
+  
+  .container{
+    align-items: center;
+  }
+  
+  .content1 {
+    text-align: center;
+  }
+  
+  .content2 {
+    display: flex;
+    margin: 30px;
+  }
+  
+  .left2 {
+    width: 25%;
+  }
+  
+  .center2{
+    width: 50%;
+    margin-top: 10px;
+    padding: 0 170px;
+  }
+  
+  .right2 {
+    width: 25%;
+  }
+  
+  .content3 {
+    background-color: antiquewhite;
+    padding: 20px;
+  }
+  
+  .top3, .bottom3 {
+    padding: 10px;
+    display: flex;
+  }
+  
+  .left3, .bottomleft3 {
+    width: 70%;
+  }
+  
+  
+  .right3 {
+    margin: 50px;
+  
+  }
+  
+  .bottomright3 {
+    width: 90%;
+    margin: 50px;
+  }
+  
+  .content4 {
+  
+    padding: 20px;
+  }
+  
+  .top4 {
+   display: flex; 
+   padding-bottom: 20px;
+   
+  }
+  
+  .topleft4 {
+    width: 20%;
+  }
+  
+  .topcenter4 {
+    margin: 0 20px;
+    width: 30%;
+  }
+  
+  .link-github{
+    text-align: center;
+    margin: 20px;
+  }
+  .bottom4 {
+    display: flex;
+  }
+  
+  .bottomleft4 {
+    width: 22%;
+  }
+  
+  .bottomcenter4 {
+    width: 30%;
+  }
+  
+  
+  .bottomright4 {
+    width: 20%;
+  }
+  
+  
+  .skill {
+    height: 10px;
+    width: 10px;
+  }
+  
+  
+  .point {
+    background-color: #04AA6D;
+  }
